@@ -56,4 +56,4 @@ For other developers who want to fork or continue this project, a highly recomme
 Currently, the bot runs using a direct connection (ISP IP), which might be less secure if used intensively or for mass operations. Implementing proxies would greatly help mask traffic and improve account security in the long run.
 
 ## License
-This project is licensed under the **MIT License**.
+This project is licensed under the [MIT License](LICENSE).
